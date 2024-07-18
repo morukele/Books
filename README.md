@@ -14,6 +14,10 @@ A collection of books that I am interested in and may have read. If you can help
 - [ ] The Trumpet of Conscience by Martin Luther King, JR
 - [ ] Where Do We Go From Here: Chaos or Community by Martin Luther King, JR
 - [ ] Why We Can't Wait by Martin Luther King, JR
+- [ ] Deploy Empathy by Michelle Hansen
+- [ ] The Mom Test by Rob Fitzpatrick
+- [ ] Start Small, Stay Small by Rob Walling
+- [ ] The E-Myth Revisited by Micheal Gerber 
 
 
 
